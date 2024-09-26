@@ -1,0 +1,47 @@
+
+body{
+    background-color: rgb(28, 1, 1);
+    margin-left: 60px;
+}
+img{
+    width: 94.4px;
+    height: 500px;
+    object-fit: none;
+    background-color: rgb(28, 1, 1);
+}
+#img1{
+    object-position: 100px 0px;
+}
+#img2{
+    object-position: 10px -90px;
+}
+#img3{
+    object-position: -90px -90px;
+}
+#img4{
+    object-position: -190px -90px;
+}
+#img5{
+    object-position: -290px -90px;
+}
+#img6{
+    object-position: -390px -90px;
+}
+#img7{
+    object-position: -490px -90px;
+}
+#img8{
+    object-position: -590px -90px;
+}
+#img9{
+    object-position: -690px -90px;
+}
+#img10{
+    object-position: -790px -90px;
+}
+#img11{
+    object-position: -890px -90px;
+}
+#img12{
+    object-position: -1000px -90px;
+}
